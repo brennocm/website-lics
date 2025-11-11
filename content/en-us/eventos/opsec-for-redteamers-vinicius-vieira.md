@@ -4,7 +4,7 @@ speaker: "Vinicius Vieira"
 company: "Trustly"
 country: "br"
 description: "OPSEC para Red Team: anonimato, infraestrutura segura e como reduzir riscos técnicos e legais em operações ofensivas."
-eventdate: 2025-11-11T12:00:00-03:00
+eventdate: 2025-11-10T21:00:00-03:00
 duration: "1:00"
 format: "speech"
 inscriptionlink: "https://forms.gle/g4gAxqTCGG3Bsyf66"
