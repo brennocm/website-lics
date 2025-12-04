@@ -17,3 +17,5 @@ Criar campanhas de phishing eficazes sempre exigiu um enorme esforço manual: ho
 Para fechar o OffSec Fest com chave de ouro, temos a honra de receber [Daniel Marques](https://www.linkedin.com/in/danielcmarques), Cybersecurity Senior Manager na EY, mergulhará em como os LLMs estão sendo usados para revolucionar e escalar massivamente esse processo.
 
 Em sua palestra, ele irá demonstrar como a IA pode automatizar quase todo o workflow de um ataque e como grupos de ameaça reais já usam LLMs para gerar conteúdo regionalizado, fazer web scraping e melhorar traduções.
+
+{{< youtube nQlf-eEuFQU >}}
