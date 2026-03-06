@@ -85,3 +85,12 @@ partial-roles-op5: Associado
 # Generic #
 ###########
 generic-last-updt: Última atualização
+
+#############
+# DUMP Zine #
+#############
+dump-zine-a-lics-zine: "a LICS zine"
+dump-zine-nav-home: "home"
+dump-zine-nav-prev: "[ < Anterior ]"
+dump-zine-nav-next: "[ Próximo > ]"
+dump-zine-footer-copyright: "2026 DUMP."

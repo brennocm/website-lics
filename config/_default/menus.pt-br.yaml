@@ -14,6 +14,10 @@ header:
   - identifier: contact
     name: Contato
     url: /pt-br/contato/
+    weight: 5
+  - identifier: dump-zine
+    name: Artigos
+    url: /pt-br/dump-zine/
     weight: 4
 
 legal:
